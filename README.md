@@ -7,3 +7,4 @@ I am a Frontend Developer with more than 10 months of experience, well versed in
 
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/Proniman)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:dprontenko@gmail.com)
+
