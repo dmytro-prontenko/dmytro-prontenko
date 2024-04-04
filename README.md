@@ -6,4 +6,4 @@ I am a Frontend Developer with more than 10 months of experience, well versed in
 <img src="https://www.codewars.com/users/dmytro-prontenko/badges/small" alt="mystreak"/>
 
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/Proniman)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)(http://t.me/Proniman){:target="_blank"}]
