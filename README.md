@@ -1,5 +1,5 @@
 # Hi there, I'm Dmytro 👋
-I am a Frontend Developer, well versed in  HTML/CSS/JS/React/Redux. In December 2023, I have graduated from Fullstack bootcamp at GoIT and by now I have 2 finished commercial projects.
+I am a Frontend Developer, well versed in  HTML/CSS/JS/React/Redux. In December 2023, I have graduated from Fullstack bootcamp at GoIT and by now I have 4 finished commercial projects.
 Meanwhile  I continue to study every day, learn new technologies and libraries. I'm passionate about the limitless world of web-development.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dmytro-prontenko&theme=tokyonight" alt="mystreak"/>
